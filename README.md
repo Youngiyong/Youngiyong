@@ -71,7 +71,7 @@ Introduce me 😆
 	<tr>
 		<td>2020.02 ~ 2021.03 -</td>
 		<td><a href="http://www.ikosmo.co.kr/">Java 개발자 교육 과정</a></td>
-		<td>SpringFramework, JSP, Oracle</td>
+		<td>Java, JavaScript, Python Spring Framework, JSP, Oracle</td>
 		<td></td>
 	</tr>
 	<tr>
