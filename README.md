@@ -21,7 +21,7 @@
   <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Redis-red?style=flat-square&logo=redis&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/ElasticSearch-red?style=flat-square&logo=ElasticSearch&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/ElasticSearch-black?style=flat-square&logo=ElasticSearch&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=Mysql&amp;logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/PostgreSQL-9cf?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Terraform-blueviolet?style=flat-square&logo=Terraform&logoColor=white"/></a> &nbsp
