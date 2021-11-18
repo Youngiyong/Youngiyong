@@ -47,10 +47,6 @@
 <a href="https://bald-income-561.notion.site/ba343b774339440f8ff8a20c46c5a9bc"><img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/></a>
 <br>
 	
-</p>
-<h3 align="center">
-Introduce me 😆
-</h3>
 <p align="center">
 <a href="https://bald-income-561.notion.site/fd4f07cbf9f0457783756a7e009bf591"><img src="https://img.shields.io/badge/Click Here!-white?style=flat-square&logo=Notion&logoColor=black&link=https://bald-income-561.notion.site/fd4f07cbf9f0457783756a7e009bf591/"/></a>&nbsp
 </p>
