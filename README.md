@@ -1,15 +1,12 @@
 
-![header](https://capsule-render.vercel.app/api?height=200&type=waving&color=timeGradient&animation=fadeIn&text=Gi-Dragon👋&fontColor=#ffffff)
+![header](https://capsule-render.vercel.app/api?height=200&type=waving&color=timeGradient&animation=fadeIn&text=GiYong👋&fontColor=#ffffff)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
-  
-  <br>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Serverless-red?style=flat-square&logo=Serverless&logoColor=white"/></a>&nbsp
