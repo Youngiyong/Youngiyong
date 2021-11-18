@@ -6,8 +6,6 @@
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
   
@@ -60,36 +58,7 @@ Introduce me 😆
 <a href="https://bald-income-561.notion.site/fd4f07cbf9f0457783756a7e009bf591"><img src="https://img.shields.io/badge/Click Here!-white?style=flat-square&logo=Notion&logoColor=black&link=https://bald-income-561.notion.site/fd4f07cbf9f0457783756a7e009bf591/"/></a>&nbsp
 </p>
 <br>
-<div align="center">
-	<table>
-	<tr>
-		<th>활동 기간</th><th>활동명</th><th>기술스택</th><th>비고</th>
-	</tr>
-	<tr>
-		<td>2013.04 - 2015.12</td>
-		<td><a href="https://www.notion.so/fd4f07cbf9f0457783756a7e009bf591#5db01251db36429f84d0e7b51e96ceb9">컴퓨터정보통신 기능동아리</a></td>
-		<td>VMWare, Debian Linux, Window Server 2012, Cisco Switch, Router, ASA </td>
-		<td>동아리 회장</td>
-	</tr>
-	<tr>
-		<td>2020.02 ~ 2021.03 -</td>
-		<td><a href="http://www.ikosmo.co.kr/">Java 개발자 교육 과정</a></td>
-		<td>Java, JavaScript, Python, Spring Framework, JSP, Oracle</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>2020.09 ~ 2021.03 -</td>
-		<td><a href="http://naver.me/xw6lB16n">똑똑한 개미들 개인 투자자 플랫폼</a></td>
-		<td>React, SpringBoot, Django, Python(Crawling), AWS, MySQL, ElasticSearch, FireBase</td>
-		<td>김영권(PM), 이진현(PL), 노신영, 윤기용</td>
-	</tr>
-	<tr>
-		<td>2021.09 ~ ing -</td>
-		<td><a href="https://github.com/Youngiyong/depl_backend">디플 개발자 커뮤니티 플랫폼</a></td>
-		<td>NextJS, Serverless, TypeORM, Postgres, Redis, ElasticSearch, Travis, AWS(EC2, RDS, DynamoDB, SES, API GateWay, Lambda) </td>
-		<td>구민성(PM), 김준섭(PM), 이세윤(MK), 김준엽(UI/UX), 강인한(FE), 권오승(FE), 김태양(BE), 윤기용(BE)</td>
-	</tr>
-	</table>
+
 
 ![footer](https://capsule-render.vercel.app/api?height=150&type=waving&color=timeGradient&section=footer)
 
