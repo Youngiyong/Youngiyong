@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Serverless-red?style=flat-square&logo=Serverless&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/AWS?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=Mysql&amp;logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/Terraform-blueviolet?style=flat-square&logo=Terraform&logoColor=white"/></a> &nbsp
 </p>
