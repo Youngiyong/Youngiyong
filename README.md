@@ -18,12 +18,12 @@
 <h3 align="center">
 🌱 Connect with me 🌱
 </h3>
-<p align="center">
+<!-- <p align="center">
 <a href="https://blog.naver.com/youn9354"><img src="https://img.shields.io/badge/Naver-green?style=flat-square&logo=Naver&logoColor=white"/></a>
 <a href="https://bald-income-561.notion.site/ba343b774339440f8ff8a20c46c5a9bc"><img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://instagram.com/dev_giyong"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dev_giyong/"/></a>&nbsp
 <a href="mailto:youn9354@naver.com"><img src="https://img.shields.io/badge/Mail-20c997?style=flat-square&logo=Gmail&logoColor=white&link=youn9354@naver.com"/></a>
-&nbsp
+&nbsp -->
 
 ![footer](https://capsule-render.vercel.app/api?height=150&type=waving&color=timeGradient&section=footer)
 
